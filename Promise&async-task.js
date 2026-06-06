@@ -14,7 +14,6 @@ async function showUser() {
 showUser()
 
 
-
 const orderPizza = new Promise((resolve, reject) => {
     const ingredientsAvailable = false 
     if (ingredientsAvailable) {
